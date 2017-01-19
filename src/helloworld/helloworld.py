@@ -12,7 +12,7 @@ def main():
     Hello World, from...
     Evan DeSantola
     Joel S. Welling
-    John Curcio! Thank you evan
+    John Curcio! Thank you evan!!!!!!!!!!
     Yifan Gu
     Richard Zhao
     """
