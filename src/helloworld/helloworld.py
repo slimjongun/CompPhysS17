@@ -14,7 +14,6 @@ def main():
     Joel S. Welling
     Yifan Gu
     Richard Zhao
->>>>>>> b166633f556c2a5ab02bb74d7acd8232bf85cf13
     """
 
 
