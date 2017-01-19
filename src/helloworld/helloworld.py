@@ -10,7 +10,7 @@ import antigravity
 def main():
     print """
     Hello World, from...
-    Evan DeSantola
+    Evan DeSantola  (tabasco sauce is awesome)
     Joel S. Welling
     John Curcio
     chris quinones
