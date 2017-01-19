@@ -12,6 +12,8 @@ def main():
     Hello World, from...
     Joel S. Welling
     John Curcio
+    Yifan Gu
+    Richard Zhao
     """
 
 
