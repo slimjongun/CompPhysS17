@@ -10,7 +10,8 @@ import antigravity
 def main():
     print """
     Hello World, from...
-    Joel S. Welling
+    Joel S. Welling,
+    Richard Zhao
     """
 
 
