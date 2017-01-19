@@ -13,7 +13,7 @@ def main():
     Evan DeSantola
     Joel S. Welling
     John Curcio
-    Yifan Gu
+    Yifan Gu (from own repo)
     Richard Zhao
     """
 
