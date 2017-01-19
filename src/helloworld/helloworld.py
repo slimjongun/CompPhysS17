@@ -16,6 +16,7 @@ def main():
     chris quinones
     Yifan Gu (from own repo)
     Richard Zhao
+    cquinone (fork)
     """
 
 
